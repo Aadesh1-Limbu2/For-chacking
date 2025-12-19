@@ -21,7 +21,7 @@ class Customer{
 class Bill{
     public:
     
-}
+};
 int main(){
     
     return 0;
